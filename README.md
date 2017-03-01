@@ -2,8 +2,8 @@
 
 # Challenges 
 
-Listing some playful challenges to frontenders
+Listing some playful challenges in vacant jobs
 
-## Jobs test
-
+## Brazil
+ 
 - [Amaro](https://github.com/amarofashion/front-end-challenge)
