@@ -8,6 +8,7 @@ Listing some playful open-source's (just open-source! :warning:) challenges to v
  
 - [1STi](https://github.com/1STi/desafio-frontend/blob/master/README.md)
 - [Amaro](https://github.com/amarofashion/front-end-challenge)
+- [Catho](https://github.com/catho/frontend-test)
 - [Celular Direto](https://github.com/celular-direto/layout-front-end)
 - [Concrete Solutions](https://github.com/concretesolutions/recrutamento-fe)
 - [Contabilizei](https://github.com/contabilizei/front-end-teste)
