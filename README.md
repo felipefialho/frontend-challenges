@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cloud.githubusercontent.com/assets/3603793/23482493/0c4c2be6-feae-11e6-8618-e931ae5b095a.png" alt="Challenge Accepeted"></p>
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/3603793/23482593/669e9444-feae-11e6-9b6b-d1a53faf984a.png" alt="Challenge Accepeted"></p>
 
 # Challenges 
 
