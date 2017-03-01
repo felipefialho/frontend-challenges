@@ -7,3 +7,4 @@ Listing some playful challenges in vacant jobs
 ## Brazil
  
 - [Amaro](https://github.com/amarofashion/front-end-challenge)
+- [Din Digital](https://github.com/dindigital/teste-frontend-2017)
