@@ -14,3 +14,4 @@ Listing some playful open-source's (just open-source! :warning:) challenges to v
 - [Din Digital](https://github.com/dindigital/teste-frontend-2017)
 - [iColabora](https://github.com/iColabora/teste-front-end-developer)
 - [R7.com](https://github.com/r7com/frontend-test)
+- [Viva Decora](https://github.com/vivadecora/front-end-teste)
