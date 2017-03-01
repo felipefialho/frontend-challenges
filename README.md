@@ -7,5 +7,5 @@ Listing some playful open-source's (just open-source! :warning:) challenges to v
 ## Brazil
  
 - [Amaro](https://github.com/amarofashion/front-end-challenge)
-- [Din Digital](https://github.com/dindigital/teste-frontend-2017)
 - [DB Interativa](https://github.com/dbrinterativa/desafio_frontend)
+- [Din Digital](https://github.com/dindigital/teste-frontend-2017)
