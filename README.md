@@ -8,5 +8,6 @@ Listing some playful open-source's (just open-source! :warning:) challenges to v
  
 - [1STi](https://github.com/1STi/desafio-frontend/blob/master/README.md)
 - [Amaro](https://github.com/amarofashion/front-end-challenge)
+- [Concrete Solutions](https://github.com/concretesolutions/recrutamento-fe)
 - [DB Interativa](https://github.com/dbrinterativa/desafio_frontend)
 - [Din Digital](https://github.com/dindigital/teste-frontend-2017)
