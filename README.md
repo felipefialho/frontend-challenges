@@ -2,7 +2,7 @@
 
 # Challenges 
 
-Listing some playful challenges in vacant jobs
+Listing some playful open-source's challenges to vacant jobs.
 
 ## Brazil
  
