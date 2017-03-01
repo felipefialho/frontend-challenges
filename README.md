@@ -12,6 +12,7 @@ Listing some playful open-source's (just open-source! :warning:) challenges to v
 - [Creditas](https://github.com/Creditas/challenge/tree/master/frontend)
 - [DB Interativa](https://github.com/dbrinterativa/desafio_frontend)
 - [Din Digital](https://github.com/dindigital/teste-frontend-2017)
+- [iCasei](https://github.com/icasei/teste-front-end)
 - [iColabora](https://github.com/iColabora/teste-front-end-developer)
 - [Mkt Virtual](https://github.com/mktvirtual/front-end-test-wordpress)
 - [R7.com](https://github.com/r7com/frontend-test)
