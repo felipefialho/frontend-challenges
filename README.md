@@ -20,4 +20,5 @@ Listing some playful open-source's (just open-source! :warning:) challenges to v
 - [iColabora](https://github.com/iColabora/teste-front-end-developer)
 - [Mkt Virtual](https://github.com/mktvirtual/front-end-test-wordpress)
 - [R7.com](https://github.com/r7com/frontend-test)
+- [Trampos](https://github.com/trampos/glowing-octo-batman)
 - [Viva Decora](https://github.com/vivadecora/front-end-teste)
