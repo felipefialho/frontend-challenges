@@ -42,6 +42,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 - [Trampos](https://github.com/trampos/glowing-octo-batman)
 - [Viva Decora](https://github.com/vivadecora/front-end-teste)
 - [Viva Real](https://github.com/vivareal/code-challenge/blob/master/frontend.md)
+- [Profite](https://github.com/arthurgimenes/teste-profite)
 
 ## License
 
