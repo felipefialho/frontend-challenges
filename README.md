@@ -38,11 +38,11 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 - [Mongeral Aegon](https://github.com/MongeralAegonDigital/front-end-trabalhe-na-mad) 
 - [Netshoes](https://github.com/netshoes/front-end-recruitment) 
 - [Nexaas/Myfreecomm](https://github.com/myfreecomm/desafio-design-01)
+- [Profite](https://github.com/arthurgimenes/teste-profite)
 - [R7.com](https://github.com/r7com/frontend-test)
 - [Trampos](https://github.com/trampos/glowing-octo-batman)
 - [Viva Decora](https://github.com/vivadecora/front-end-teste)
 - [Viva Real](https://github.com/vivareal/code-challenge/blob/master/frontend.md)
-- [Profite](https://github.com/arthurgimenes/teste-profite)
 
 ## License
 
