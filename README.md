@@ -30,3 +30,4 @@ Listing some playful open-source's (just open-source! :warning:) challenges to v
 
 ## eng
 - [Snowdog](https://github.com/SnowdogApps/front-end-recruitment-test)
+- [Skyscanner](https://github.com/Skyscanner/frontend-recruitment-test)
