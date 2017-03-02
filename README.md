@@ -4,7 +4,7 @@
 
 Listing some playful open-source's (just open-source! :warning:) challenges to vacant jobs.
 
-## Brazil
+## pt-br
  
 - [1STi](https://github.com/1STi/desafio-frontend/blob/master/README.md)
 - [Amaro](https://github.com/amarofashion/front-end-challenge)
