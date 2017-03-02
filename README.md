@@ -4,7 +4,12 @@
 
 Listing some playful open-source's (just open-source! :warning:) challenges to vacant jobs.
 
-## pt-br
+## en
+
+- [Skyscanner](https://github.com/Skyscanner/frontend-recruitment-test)
+- [Snowdog](https://github.com/SnowdogApps/front-end-recruitment-test)
+
+## pt-br 🇧🇷
  
 - [1STi](https://github.com/1STi/desafio-frontend/blob/master/README.md)
 - [Amaro](https://github.com/amarofashion/front-end-challenge)
@@ -29,11 +34,6 @@ Listing some playful open-source's (just open-source! :warning:) challenges to v
 - [Trampos](https://github.com/trampos/glowing-octo-batman)
 - [Viva Decora](https://github.com/vivadecora/front-end-teste)
 - [Viva Real](https://github.com/vivareal/code-challenge/blob/master/frontend.md)
-
-## en
-
-- [Skyscanner](https://github.com/Skyscanner/frontend-recruitment-test)
-- [Snowdog](https://github.com/SnowdogApps/front-end-recruitment-test)
 
 ## License
 
