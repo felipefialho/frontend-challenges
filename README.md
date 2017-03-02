@@ -21,6 +21,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 - [Snowdog](https://github.com/SnowdogApps/front-end-recruitment-test)
 - [StreamCo](https://github.com/StreamCo/frontend-coding-challenge)
 - [StreamCo - React](https://github.com/StreamCo/react-coding-challenge)
+- [Yodlr](https://github.com/yodlr/frontend-code-challenge)
 - [ZEPL](https://github.com/ZEPL/front-end-challenge)
 
 ## pt-br 🇧🇷
