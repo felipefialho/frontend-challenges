@@ -10,9 +10,12 @@ Listing some playful open-source's (just open-source! :warning:) challenges to v
 - [Amaro](https://github.com/amarofashion/front-end-challenge)
 - [Catho](https://github.com/catho/frontend-test)
 - [Celular Direto](https://github.com/celular-direto/layout-front-end)
+- [Chaordic](https://github.com/chaordic/frontend-intern-challenge) 
+- [Clima Tempo](https://github.com/climatempo/challenge-accepted) 
 - [Concrete Solutions](https://github.com/concretesolutions/recrutamento-fe)
 - [Contabilizei](https://github.com/contabilizei/front-end-teste)
 - [Creditas](https://github.com/Creditas/challenge/tree/master/frontend)
+- [Cubo Network](https://github.com/cubonetwork/front-end-challenge)
 - [DB Interativa](https://github.com/dbrinterativa/desafio_frontend)
 - [Din Digital](https://github.com/dindigital/teste-frontend-2017)
 - [Folha de SP](https://github.com/FolhaSP/front-end-test)
@@ -22,6 +25,10 @@ Listing some playful open-source's (just open-source! :warning:) challenges to v
 - [R7.com](https://github.com/r7com/frontend-test)
 - [Trampos](https://github.com/trampos/glowing-octo-batman)
 - [Viva Decora](https://github.com/vivadecora/front-end-teste)
+<<<<<<< HEAD
 
 ## eng
 - [Snowdog](https://github.com/SnowdogApps/front-end-recruitment-test)
+=======
+- [Viva Real](https://github.com/vivareal/code-challenge/blob/master/frontend.md)
+>>>>>>> upstream/master
