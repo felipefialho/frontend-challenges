@@ -30,6 +30,7 @@ Listing some playful open-source's (just open-source! :warning:) challenges to v
 - [Mkt Virtual](https://github.com/mktvirtual/front-end-test-wordpress) 
 - [Mongeral Aegon](https://github.com/MongeralAegonDigital/front-end-trabalhe-na-mad) 
 - [Netshoes](https://github.com/netshoes/front-end-recruitment) 
+- [OLX](https://github.com/ThamaraHessel/OLX-Challenge)
 - [R7.com](https://github.com/r7com/frontend-test)
 - [Trampos](https://github.com/trampos/glowing-octo-batman)
 - [Viva Decora](https://github.com/vivadecora/front-end-teste)
