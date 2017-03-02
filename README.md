@@ -34,6 +34,7 @@ Listing some playful open-source's (just open-source! :warning:) challenges to v
 - [Trampos](https://github.com/trampos/glowing-octo-batman)
 - [Viva Decora](https://github.com/vivadecora/front-end-teste)
 - [Viva Real](https://github.com/vivareal/code-challenge/blob/master/frontend.md)
+- [OLX](https://github.com/ThamaraHessel/OLX-Challenge)
 
 ## License
 
