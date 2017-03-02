@@ -34,3 +34,7 @@ Listing some playful open-source's (just open-source! :warning:) challenges to v
 
 - [Skyscanner](https://github.com/Skyscanner/frontend-recruitment-test)
 - [Snowdog](https://github.com/SnowdogApps/front-end-recruitment-test)
+
+## License
+
+[MIT](/LICENSE) &copy; Felipe Fialho
