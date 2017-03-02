@@ -25,10 +25,7 @@ Listing some playful open-source's (just open-source! :warning:) challenges to v
 - [R7.com](https://github.com/r7com/frontend-test)
 - [Trampos](https://github.com/trampos/glowing-octo-batman)
 - [Viva Decora](https://github.com/vivadecora/front-end-teste)
-<<<<<<< HEAD
+- [Viva Real](https://github.com/vivareal/code-challenge/blob/master/frontend.md)
 
 ## eng
 - [Snowdog](https://github.com/SnowdogApps/front-end-recruitment-test)
-=======
-- [Viva Real](https://github.com/vivareal/code-challenge/blob/master/frontend.md)
->>>>>>> upstream/master
