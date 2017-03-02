@@ -28,6 +28,7 @@ Listing some playful open-source's (just open-source! :warning:) challenges to v
 - [Viva Decora](https://github.com/vivadecora/front-end-teste)
 - [Viva Real](https://github.com/vivareal/code-challenge/blob/master/frontend.md)
 
-## eng
-- [Snowdog](https://github.com/SnowdogApps/front-end-recruitment-test)
+## en
+
 - [Skyscanner](https://github.com/Skyscanner/frontend-recruitment-test)
+- [Snowdog](https://github.com/SnowdogApps/front-end-recruitment-test)
