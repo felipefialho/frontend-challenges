@@ -10,6 +10,7 @@ Listing some playful open-source's (just open-source! :warning:) challenges to v
 - [Amaro](https://github.com/amarofashion/front-end-challenge)
 - [Catho](https://github.com/catho/frontend-test)
 - [Celular Direto](https://github.com/celular-direto/layout-front-end)
+- [Chaordic](https://github.com/chaordic/frontend-intern-challenge)
 - [Concrete Solutions](https://github.com/concretesolutions/recrutamento-fe)
 - [Contabilizei](https://github.com/contabilizei/front-end-teste)
 - [Creditas](https://github.com/Creditas/challenge/tree/master/frontend)
