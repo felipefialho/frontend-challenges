@@ -2,7 +2,9 @@
 
 # Challenges
 
-Listing some playful open-source's (just open-source! :warning:) challenges to vacant jobs.
+The main objective of repository is testing your knowledge using real jobs challenge. :smiley_cat:
+
+Follows some playful (just open-source! :warning:) challenges of jobs.
 
 ## en
 
