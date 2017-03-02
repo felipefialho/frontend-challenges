@@ -22,9 +22,15 @@ Listing some playful open-source's (just open-source! :warning:) challenges to v
 - [Folha de SP](https://github.com/FolhaSP/front-end-test)
 - [iCasei](https://github.com/icasei/teste-front-end)
 - [iColabora](https://github.com/iColabora/teste-front-end-developer)
-- [Mkt Virtual](https://github.com/mktvirtual/front-end-test-wordpress)
-- [Mongeral Aegon](https://github.com/MongeralAegonDigital/front-end-trabalhe-na-mad)
+- [Mkt Virtual](https://github.com/mktvirtual/front-end-test-wordpress) 
+- [Mongeral Aegon](https://github.com/MongeralAegonDigital/front-end-trabalhe-na-mad) 
+- [Netshoes](https://github.com/netshoes/front-end-recruitment) 
 - [R7.com](https://github.com/r7com/frontend-test)
 - [Trampos](https://github.com/trampos/glowing-octo-batman)
 - [Viva Decora](https://github.com/vivadecora/front-end-teste)
 - [Viva Real](https://github.com/vivareal/code-challenge/blob/master/frontend.md)
+
+## en
+
+- [Skyscanner](https://github.com/Skyscanner/frontend-recruitment-test)
+- [Snowdog](https://github.com/SnowdogApps/front-end-recruitment-test)
