@@ -11,9 +11,17 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 
 ## en
 
+- [ChurchDesk](https://github.com/ChurchDesk/cd-challenge)
+- [Esper](https://github.com/esperco/front-end-challenge)
+- [Exzeo](https://github.com/exzeo/FrontEndChallenge)
+- [LoKtra](https://github.com/Loktra/Front-End-Engineer)
+- [Room Key](https://github.com/roomkey/front-end-code-challenge)
 - [Sitepoint](https://github.com/sitepoint/frontend-test)
 - [Skyscanner](https://github.com/Skyscanner/frontend-recruitment-test)
 - [Snowdog](https://github.com/SnowdogApps/front-end-recruitment-test)
+- [StreamCo](https://github.com/StreamCo/frontend-coding-challenge)
+- [StreamCo - React](https://github.com/StreamCo/react-coding-challenge)
+- [ZEPL](https://github.com/ZEPL/front-end-challenge)
 
 ## pt-br 🇧🇷
 
