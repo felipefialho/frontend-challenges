@@ -11,6 +11,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 
 ## en
 
+- [Ambulnz](https://github.com/AmbulnzLLC/frontend-challenge)
 - [ChurchDesk](https://github.com/ChurchDesk/cd-challenge)
 - [Esper](https://github.com/esperco/front-end-challenge)
 - [Exzeo](https://github.com/exzeo/FrontEndChallenge)
@@ -19,8 +20,10 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 - [Sitepoint](https://github.com/sitepoint/frontend-test)
 - [Skyscanner](https://github.com/Skyscanner/frontend-recruitment-test)
 - [Snowdog](https://github.com/SnowdogApps/front-end-recruitment-test)
+- [Storecast](https://github.com/storecast/frontend-challenge)
 - [StreamCo](https://github.com/StreamCo/frontend-coding-challenge)
 - [StreamCo - React](https://github.com/StreamCo/react-coding-challenge)
+- [TenantBase](https://github.com/TenantBase/frontend-challenge)
 - [Yodlr](https://github.com/yodlr/frontend-code-challenge)
 - [ZEPL](https://github.com/ZEPL/front-end-challenge)
 
