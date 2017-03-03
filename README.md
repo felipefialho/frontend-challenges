@@ -11,9 +11,12 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 
 ## en
 
+- [Ambulnz](https://github.com/AmbulnzLLC/frontend-challenge)
 - [Sitepoint](https://github.com/sitepoint/frontend-test)
 - [Skyscanner](https://github.com/Skyscanner/frontend-recruitment-test)
 - [Snowdog](https://github.com/SnowdogApps/front-end-recruitment-test)
+- [Storecast](https://github.com/storecast/frontend-challenge)
+- [TenantBase](https://github.com/TenantBase/frontend-challenge)
 
 ## pt-br 🇧🇷
 
