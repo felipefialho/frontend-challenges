@@ -33,6 +33,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 - [Accenture](https://github.com/acnrecife/Front-End-Test-Interview)
 - [Amaro](https://github.com/amarofashion/front-end-challenge)
 - [Amil](https://github.com/DevAmil/frontend-test)
+- [B2W](https://github.com/b2w-marketplace/code-challenge)
 - [Catho](https://github.com/catho/frontend-test)
 - [Celular Direto](https://github.com/celular-direto/layout-front-end)
 - [Chaordic](https://github.com/chaordic/frontend-intern-challenge)
