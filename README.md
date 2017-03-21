@@ -40,7 +40,6 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 - [Concrete Solutions](https://github.com/concretesolutions/recrutamento-fe)
 - [Contabilizei](https://github.com/contabilizei/front-end-teste)
 - [Creditas](https://github.com/Creditas/challenge/tree/master/frontend)
-- [Codeby](https://docs.google.com/document/d/1PtOqc0Z7yL72PCR2zSMmLLmpLNOmEr9uKh-QTdEbS5g/edit)
 - [Cubo Network](https://github.com/cubonetwork/front-end-challenge)
 - [DB Interativa](https://github.com/dbrinterativa/desafio_frontend)
 - [Din Digital](https://github.com/dindigital/teste-frontend-2017)
