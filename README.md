@@ -44,6 +44,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 - [Cubo Network](https://github.com/cubonetwork/front-end-challenge)
 - [DB Interativa](https://github.com/dbrinterativa/desafio_frontend)
 - [Din Digital](https://github.com/dindigital/teste-frontend-2017)
+- [ENext](https://github.com/enextgroup/quero-trabalhar-na-enext)
 - [Entria](https://github.com/entria/vagas/blob/master/challenge.md)
 - [Folha de SP](https://github.com/FolhaSP/front-end-test)
 - [iCasei](https://github.com/icasei/teste-front-end)
