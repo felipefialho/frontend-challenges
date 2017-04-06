@@ -2,7 +2,7 @@
 
 # Challenges
 
-[![license](https://img.shields.io/github/license/LFeh/frontend-challenges.svg)](./license.md)
+[![license](https://img.shields.io/github/license/LFeh/frontend-challenges.svg)](/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/LFeh/frontend-challenges.svg)](https://github.com/LFeh/frontend-challenges/graphs/contributors)
 
 The main objective of repository is testing your knowledge using real jobs challenge. :smiley_cat:
