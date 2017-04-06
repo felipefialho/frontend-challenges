@@ -63,4 +63,4 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 
 ## License
 
-[MIT](/LICENSE) &copy; Felipe Fialho
+[MIT](/LICENSE) &copy; Felipe Fialho 
