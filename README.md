@@ -60,6 +60,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 - [TExTecnologia](https://github.com/TExTecnologia/teste-fullstack)
 - [Viva Decora](https://github.com/vivadecora/front-end-teste)
 - [Viva Real](https://github.com/vivareal/code-challenge/blob/master/frontend.md)
+- [Personare](https://github.com/Personare/front-end-challenge)
 
 ## License
 
