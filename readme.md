@@ -34,6 +34,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 - [Amaro](https://github.com/amarofashion/front-end-challenge)
 - [Amil](https://github.com/DevAmil/frontend-test)
 - [B2W](https://github.com/b2w-marketplace/code-challenge)
+- [Buscapé](https://github.com/buscape-company/exercicios/tree/master/frontend)
 - [Catho](https://github.com/catho/frontend-test)
 - [Celular Direto](https://github.com/celular-direto/layout-front-end)
 - [Chaordic](https://github.com/chaordic/frontend-intern-challenge)
