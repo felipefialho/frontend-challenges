@@ -18,7 +18,6 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 - [LoKtra](https://github.com/Loktra/Front-End-Engineer)
 - [Room Key](https://github.com/roomkey/front-end-code-challenge)
 - [Sitepoint](https://github.com/sitepoint/frontend-test)
-- [Skyscanner](https://github.com/Skyscanner/frontend-recruitment-test)
 - [Snowdog](https://github.com/SnowdogApps/front-end-recruitment-test)
 - [Storecast](https://github.com/storecast/frontend-challenge)
 - [StreamCo](https://github.com/StreamCo/frontend-coding-challenge)
