@@ -50,6 +50,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 - [Folha de SP](https://github.com/FolhaSP/front-end-test)
 - [iCasei](https://github.com/icasei/teste-front-end)
 - [iColabora](https://github.com/iColabora/teste-front-end-developer)
+- [Intelipost](https://github.com/intelipost/job-frontend-developer)
 - [Itelios](https://github.com/iteliosbrasil/itelios-frontend-challenge)
 - [LojasKD](https://github.com/lojaskd/frontend-challenge)
 - [Mkt Virtual](https://github.com/mktvirtual/front-end-test-wordpress)
