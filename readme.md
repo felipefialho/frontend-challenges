@@ -62,6 +62,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 - [R7.com](https://github.com/r7com/frontend-test)
 - [Trampos](https://github.com/trampos/glowing-octo-batman)
 - [TExTecnologia](https://github.com/TExTecnologia/teste-fullstack)
+- [UOL](https://github.com/uolhost/test-frontEnd)
 - [Viva Decora](https://github.com/vivadecora/projeto-vaga-front-end-nao-fazer-fork)
 - [Viva Real](https://github.com/vivareal/code-challenge/blob/master/frontend.md)
 
