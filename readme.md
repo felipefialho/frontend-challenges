@@ -60,6 +60,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 - [Personare](https://github.com/Personare/front-end-challenge)
 - [Profite](https://github.com/arthurgimenes/teste-profite)
 - [R7.com](https://github.com/r7com/frontend-test)
+- [Trackmob](https://github.com/Trackmob/trackmob-frontend-test)
 - [Trampos](https://github.com/trampos/glowing-octo-batman)
 - [TExTecnologia](https://github.com/TExTecnologia/teste-fullstack)
 - [UOL](https://github.com/uolhost/test-frontEnd)
