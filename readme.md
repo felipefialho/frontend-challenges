@@ -49,6 +49,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [Profite](http://profite.com.br/) | HTML, CSS & jQuery | [Code →](https://github.com/arthurgimenes/teste-profite)
 | :brazil: | [R7.com](http://r7.com/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/r7com/frontend-test)
 | :us: | [Room Key](http://roomkey.com/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/roomkey/front-end-code-challenge)
+| :portugal: | [Significa](https://significa.pt) | React, CSS, JS & Design | [Code →](https://github.com/Significa/frontend-challenge)
 | :us: | [Sitepoint](http://www.sitepoint.com/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/sitepoint/frontend-test)
 | :us: | [Snowdog](http://snow.dog/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/SnowdogApps/front-end-recruitment-test)
 | :us: | [Storecast](http://storecast.de/) | React | [Code →](https://github.com/storecast/frontend-challenge)
