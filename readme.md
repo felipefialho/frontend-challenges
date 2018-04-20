@@ -19,7 +19,6 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [B2W](https://ri.b2w.digital/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/b2w-marketplace/code-challenge)
 | :brazil: | [Buscapé](https://www.buscape.com.br/) | HTML, CSS & JS | [Code →](https://github.com/buscape-company/exercicios/tree/master/frontend)
 | :brazil: | [Catho](https://www.catho.com.br/) | HTML, CSS & JS | [Code →](https://github.com/catho/frontend-test)
-| :brazil: | [Celular Direto](http://celulardireto.com.br/) | HTML, CSS & jQuery | [Code →](https://github.com/celular-direto/layout-front-end)
 | :brazil: | [Chaordic](https://www.chaordic.com.br/) | HTML, CSS & JS | [Code →](https://github.com/chaordic/frontend-intern-challenge)
 | :uk: | [ChurchDesk](http://churchdesk.com) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/ChurchDesk/cd-challenge)
 | :brazil: | [Clima Tempo](http://www.climatempo.com.br/) | NodeJS & PHP | [Code →](https://github.com/climatempo/challenge-accepted)
