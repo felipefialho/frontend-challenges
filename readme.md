@@ -30,7 +30,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [DB Interativa](http://dbr.ag/) | HTML, CSS & JS | [Code →](https://github.com/dbrinterativa/desafio_frontend)
 | :brazil: | [Din Digital](https://dindigital.io/) | HTML, CSS & JS | [Code →](https://github.com/dindigital/test-front-2017)
 | :brazil: | [ENext](http://www.enext.com.br/) | HTML, CSS & JS | [Code →](https://github.com/enextgroup/quero-trabalhar-na-enext)
-| :brazil: | [Entria](https://entria.com.br/) | React Native | [Code →](https://github.com/entria/jobs/blob/master/challenge.md)
+| :brazil: | [Entria](https://entria.com.br/) | React, React Native, GraphQL & Relay Modern  | [Code →](https://github.com/entria/jobs/)
 | :us: | [Esper](https://esper.com/) | Typescript, React & LESS | [Code →](https://github.com/esperco/front-end-challenge)
 | :us: | [Exzeo](http://exzeo.com/) | HTML, CSS & JS | [Code →](https://github.com/exzeo/FrontEndChallenge)
 | :brazil: | [Folha de SP](https://www.folha.uol.com.br/) | HTML, CSS & JS | [Code →](https://github.com/FolhaSP/front-end-test)
