@@ -2,6 +2,8 @@
 
 # Challenges
 
+> Listing some playful open-source's challenges of jobs to test your knowledge
+
 [![license](https://img.shields.io/github/license/LFeh/frontend-challenges.svg)](/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/LFeh/frontend-challenges.svg)](https://github.com/LFeh/frontend-challenges/graphs/contributors)
 
