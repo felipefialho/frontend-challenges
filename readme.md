@@ -36,6 +36,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :us: | [Esper](https://esper.com/) | Typescript, React & LESS | [Code →](https://github.com/esperco/front-end-challenge)
 | :us: | [Exzeo](http://exzeo.com/) | HTML, CSS & JS | [Code →](https://github.com/exzeo/FrontEndChallenge)
 | :brazil: | [Folha de SP](https://www.folha.uol.com.br/) | HTML, CSS & JS | [Code →](https://github.com/FolhaSP/front-end-test)
+| :brazil: | [Hotel Urbano](https://www.hotelurbano.com/) | HTML, Preprocessor CSS, Framework JS & Tests | [Code →](https://github.com/HotelUrbano/challenge-charlie)
 | :brazil: | [iCasei](http://icasei.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/icasei/teste-front-end)
 | :brazil: | [iColabora](http://www.icolabora.com.br/) | HTML, CSS & jQuery | [Code →](https://github.com/iColabora/teste-front-end-developer)
 | :brazil: | [Intelipost](http://www.intelipost.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/intelipost/job-frontend-developer)
