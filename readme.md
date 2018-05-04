@@ -56,6 +56,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :us: | [Storecast](http://storecast.de/) | React | [Code →](https://github.com/storecast/frontend-challenge)
 | :us: | [StreamCo](https://github.com/StreamCo) | React | [Code →](https://github.com/StreamCo/react-coding-challenge)
 | :us: | [TenantBase](http://tenantbase.com/) | HTML, CSS & jQuery | [Code →](https://github.com/StreamCo/react-coding-challenge)
+| :uk: | [Thortful](https://www.thortful.com/) | HTML, CSS, JS/CoffeeScript & AngularJS | [Code →](https://github.com/ThortfulNew/FrontEndChallenge)
 | :brazil: | [Trackmob](http://www.trackmob.com.br/) | React Native | [Code →](https://github.com/Trackmob/trackmob-frontend-test)
 | :brazil: | [Trampos](http://trampos.co/) | HTML, CSS & JS | [Code →](https://github.com/trampos/glowing-octo-batman)
 | :brazil: | [TExTecnologia](http://textecnologia.com.br/) | Framework JS, Preprocessor CSS & Node.js | [Code →](https://github.com/TExTecnologia/teste-fullstack)
