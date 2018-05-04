@@ -59,6 +59,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [Trackmob](http://www.trackmob.com.br/) | React Native | [Code →](https://github.com/Trackmob/trackmob-frontend-test)
 | :brazil: | [Trampos](http://trampos.co/) | HTML, CSS & JS | [Code →](https://github.com/trampos/glowing-octo-batman)
 | :brazil: | [TExTecnologia](http://textecnologia.com.br/) | Framework JS, Preprocessor CSS & Node.js | [Code →](https://github.com/TExTecnologia/teste-fullstack)
+| :brazil: | [Umbler](https://www.umbler.com/br) | HTML, JS, Preprocessor CSS & Task Runner | [Code →](https://github.com/umbler-team/front-challenge)
 | :brazil: | [UOL Host](https://uolhost.uol.com.br/) | HTML, Preprocessor CSS & JS | [Code →](https://github.com/uolhost/test-frontEnd)
 | :brazil: | [Viva Decora](https://www.vivadecora.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/vivadecora/projeto-frontend-vivadecora-nao-fazer-fork)
 | :brazil: | [Viva Real](https://www.vivareal.com.br/) | HTML, Preprocessor CSS & JS | [Code →](https://github.com/vivareal/code-challenge/blob/master/frontend.md)
