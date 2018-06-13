@@ -4,7 +4,7 @@
 
 > Listing some playful open-source's challenges of jobs to test your knowledge
 
-[![license](https://img.shields.io/github/license/LFeh/frontend-challenges.svg)](/LICENSE)
+[![license](https://img.shields.io/github/license/LFeh/frontend-challenges.svg)](/license)
 [![GitHub contributors](https://img.shields.io/github/contributors/LFeh/frontend-challenges.svg)](https://github.com/LFeh/frontend-challenges/graphs/contributors)
 
 The main objective of repository is testing your knowledge using real jobs challenge. :smiley_cat:
@@ -71,4 +71,4 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 
 ## License
 
-[MIT](/LICENSE) &copy; Felipe Fialho 
+[MIT](/license) &copy; Felipe Fialho 
