@@ -49,6 +49,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [Netshoes](http://www.netshoes.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/netshoes/front-end-recruitment)
 | :brazil: | [Nexaas](http://www.nexaas.com/) | HTML, CSS & JS | [Code →](https://github.com/myfreecomm/desafio-design-01)
 | :brazil: | [Olist](https://olist.com/) | HTML, Preprocessor CSS & JS | [Code →](https://github.com/olist/work-at-olist-front)
+| :brazil: | [Original.io](https://www.original.io/) | HTML, CSS & JS | [Code →](https://github.com/original-io/join-us)
 | :brazil: | [Personare](https://www.personare.com.br/) | React | [Code →](https://github.com/Personare/front-end-challenge)
 | :brazil: | [Profite](http://profite.com.br/) | HTML, CSS & jQuery | [Code →](https://github.com/arthurgimenes/teste-profite)
 | :brazil: | [R7.com](http://r7.com/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/r7com/frontend-test)
