@@ -24,6 +24,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [Catho](https://www.catho.com.br/) | HTML, CSS & JS | [Code →](https://github.com/catho/frontend-test)
 | :brazil: | [Chaordic](https://www.chaordic.com.br/) | HTML, CSS & JS | [Code →](https://github.com/chaordic/frontend-intern-challenge)
 | :uk: | [ChurchDesk](http://churchdesk.com) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/ChurchDesk/cd-challenge)
+| :brazil: | [Ciclic](https://www.ciclic.com.br/) | HTML, CSS & JS | [Code →](https://github.com/ciclic/test-frontend)
 | :brazil: | [Clima Tempo](http://www.climatempo.com.br/) | NodeJS & PHP | [Code →](https://github.com/climatempo/challenge-accepted)
 | :brazil: | [Concrete Solutions](https://www.concrete.com.br/) | HTML, CSS & JS | [Code →](https://github.com/concretesolutions/recrutamento-fe)
 | :brazil: | [Contabilizei](http://www.contabilizei.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/contabilizei/front-end-teste)
