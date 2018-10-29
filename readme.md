@@ -58,6 +58,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :us: | [Snowdog](http://snow.dog/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/SnowdogApps/front-end-recruitment-test)
 | :us: | [Storecast](http://storecast.de/) | React | [Code →](https://github.com/storecast/frontend-challenge)
 | :us: | [StreamCo](https://github.com/StreamCo) | React | [Code →](https://github.com/StreamCo/react-coding-challenge)
+| :brazil: | [Tagview](https://www.tagview.com.br/) | HTML, CSS & JS | [Code →](https://github.com/tagview/tagchatter)
 | :us: | [TenantBase](http://tenantbase.com/) | HTML, CSS & jQuery | [Code →](https://github.com/TenantBase/hiring-frontend-challenge)
 | :uk: | [Thortful](https://www.thortful.com/) | HTML, CSS, JS/CoffeeScript & AngularJS | [Code →](https://github.com/ThortfulNew/FrontEndChallenge)
 | :brazil: | [Trackmob](http://www.trackmob.com.br/) | React Native | [Code →](https://github.com/Trackmob/trackmob-frontend-test)
