@@ -41,7 +41,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [iCasei](http://icasei.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/icasei/teste-front-end)
 | :brazil: | [iColabora](http://www.icolabora.com.br/) | HTML, CSS & jQuery | [Code →](https://github.com/iColabora/teste-front-end-developer)
 | :brazil: | [Intelipost](http://www.intelipost.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/intelipost/job-frontend-developer)
-| :brazil: | [Itelios](http://www.itelios.com.br/) | HTML, CSS & JS | [Code →](https://github.com/intelipost/job-frontend-developer)
+| :brazil: | [Itelios](http://www.itelios.com.br/) | HTML, CSS & JS | [Code →](https://github.com/iteliosbrasil/itelios-frontend-challenge)
 | :brazil: | [LojasKD](http://lojaskd.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/lojaskd/frontend-challenge)
 | :us: | [LoKtra](http://loktra.com/) | HTML, CSS & JS | [Code →](https://github.com/Loktra/Front-End-Engineer)
 | :brazil: | [Mkt Virtual](http://www.mktvirtual.com.br/) | WordPress | [Code →](https://github.com/mktvirtual/front-end-test-wordpress)
