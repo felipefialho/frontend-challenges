@@ -20,7 +20,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [Amaro](https://amaro.com/) | React, Redux, Sass & Webpack | [Code →](https://github.com/amarofashion/front-end-challenge/)
 | :brazil: | [B2W](https://ri.b2w.digital/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/b2w-marketplace/code-challenge)
 | :brazil: | [Buscapé](https://www.buscape.com.br/) | HTML, CSS & JS | [Code →](https://github.com/buscape-company/exercicios/tree/master/frontend)
-| :brazil: :netherlands: | [Chama](https://www.chama-app.com.br/) | React, Redux | [Code →](https://github.com/chamatheapp/chama-frontend-assignment/)
+| :netherlands: | [Chama](https://www.chama-app.com.br/) | React, Redux | [Code →](https://github.com/chamatheapp/chama-frontend-assignment/)
 | :brazil: | [Chaordic](https://www.chaordic.com.br/) | HTML, CSS & JS | [Code →](https://github.com/chaordic/frontend-intern-challenge)
 | :uk: | [ChurchDesk](http://churchdesk.com) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/ChurchDesk/cd-challenge)
 | :brazil: | [Ciclic](https://www.ciclic.com.br/) | HTML, CSS & JS | [Code →](https://github.com/ciclic/test-frontend)
