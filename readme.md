@@ -50,6 +50,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [Olist](https://olist.com/) | HTML, Preprocessor CSS & JS | [Code →](https://github.com/olist/work-at-olist-front)
 | :brazil: | [Original.io](https://www.original.io/) | HTML, CSS & JS | [Code →](https://github.com/original-io/join-us)
 | :brazil: | [Personare](https://www.personare.com.br/) | React | [Code →](https://github.com/Personare/front-end-challenge)
+| :brazil: | [Pipefy](https://www.pipefy.com/) | React, Redux, GraphQl, Apollo | [Code →](https://github.com/pipefy/RecruitmentExercise/blob/master/FRONTENDEXERCISE.md)
 | :brazil: | [Profite](http://profite.com.br/) | HTML, CSS & jQuery | [Code →](https://github.com/arthurgimenes/teste-profite)
 | :brazil: | [R7.com](http://r7.com/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/r7com/frontend-test)
 | :us: | [Room Key](http://roomkey.com/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/roomkey/front-end-code-challenge)
