@@ -30,7 +30,6 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [Creditas](http://creditas.com.br/) | HTML, CSS & JS | [Code →](https://github.com/Creditas/challenge/tree/master/frontend)
 | :brazil: | [Cubo Network](https://cubo.network/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/cubonetwork/frontend-challenge)
 | 🇺🇸 | [Cubo Network](https://cubo.network/) | Framework JS, Preprocessor CSS & Node.js | [Code →](https://github.com/cubonetwork/fullstack-challenge)
-| :brazil: | [DB Interativa](http://dbr.ag/) | HTML, CSS & JS | [Code →](https://github.com/dbrinterativa/desafio_frontend)
 | :brazil: | [Din Digital](https://dindigital.io/) | HTML, CSS & JS | [Code →](https://github.com/dindigital/test-front-2017)
 | :brazil: | [ENext](http://www.enext.com.br/) | HTML, CSS & JS | [Code →](https://github.com/enextgroup/quero-trabalhar-na-enext)
 | :brazil: | [Entria](https://entria.com.br/) | React, React Native, GraphQL & Relay Modern  | [Code →](https://github.com/entria/jobs/)
