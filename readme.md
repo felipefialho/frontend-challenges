@@ -26,6 +26,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [Ciclic](https://www.ciclic.com.br/) | HTML, CSS & JS | [Code →](https://github.com/ciclic/test-frontend)
 | :brazil: | [Clima Tempo](http://www.climatempo.com.br/) | NodeJS & PHP | [Code →](https://github.com/climatempo/challenge-accepted)
 | :brazil: | [Concrete Solutions](https://www.concrete.com.br/) | HTML, CSS & JS | [Code →](https://github.com/concretesolutions/recrutamento-fe)
+| :brazil: | [Conpass](https://www.conpass.io/) | HTML, CSS & JS, React, Redux | [Code →](https://github.com/Conpass/challenges/blob/master/Frontend-Challenge.md)
 | :brazil: | [Contabilizei](http://www.contabilizei.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/contabilizei/front-end-teste)
 | :brazil: | [Creditas](http://creditas.com.br/) | HTML, CSS & JS | [Code →](https://github.com/Creditas/challenge/tree/master/frontend)
 | :brazil: | [Cubo Network](https://cubo.network/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/cubonetwork/frontend-challenge)
