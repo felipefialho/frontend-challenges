@@ -4,8 +4,8 @@
 
 > Listing some playful open-source's challenges of jobs to test your knowledge
 
-[![license](https://img.shields.io/github/license/LFeh/frontend-challenges.svg)](/license)
-[![GitHub contributors](https://img.shields.io/github/contributors/LFeh/frontend-challenges.svg)](https://github.com/LFeh/frontend-challenges/graphs/contributors)
+[![license](https://img.shields.io/github/license/felipefialho/frontend-challenges.svg)](/license)
+[![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/frontend-challenges.svg)](https://github.com/felipefialho/frontend-challenges/graphs/contributors)
 
 The main objective of repository is testing your knowledge using real jobs challenge. :smiley_cat:
 
