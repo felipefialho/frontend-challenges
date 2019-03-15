@@ -15,7 +15,6 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 |--|--|--|--
 | :brazil: | [1STi](http://www.1sti.com.br/) | React | [Code →](https://github.com/1STi/desafio-frontend/)
 | :us: | [Ambulnz](http://www.ambulnz.com/) | Git, NPM & Bower | [Code →](https://github.com/AmbulnzLLC/frontend-challenge)
-| :brazil: | [Accenture](https://www.accenture.com/br-pt/) | Git, NodeJS, Bower, MongoDB, Sass & Gulp | [Code →](https://github.com/acnrecife/Front-End-Test-Interview)
 | :brazil: | [Agrotis](https://www.agrotis.com/) | React, Redux | [Code →](https://github.com/agrotis-io/desafio-front)
 | :brazil: | [Amaro](https://amaro.com/) | React, Redux, Sass & Webpack | [Code →](https://github.com/amarofashion/front-end-challenge/)
 | :brazil: | [B2W](https://ri.b2w.digital/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/b2w-marketplace/code-challenge)
