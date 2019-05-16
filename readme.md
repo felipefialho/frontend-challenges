@@ -43,6 +43,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [Itelios](http://www.itelios.com.br/) | HTML, CSS & JS | [Code →](https://github.com/iteliosbrasil/itelios-frontend-challenge)
 | :brazil: | [LojasKD](http://lojaskd.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/lojaskd/frontend-challenge)
 | :us: | [LoKtra](http://loktra.com/) | HTML, CSS & JS | [Code →](https://github.com/Loktra/Front-End-Engineer)
+| :brazil: | [Mirae Asset](https://corretora.miraeasset.com.br/) | React | [Code →](https://github.com/marcobfv/desafio-mirae-react)
 | :brazil: | [Mkt Virtual](http://www.mktvirtual.com.br/) | WordPress | [Code →](https://github.com/mktvirtual/front-end-test-wordpress)
 | :brazil: | [Mongeral Aegon](https://www.mongeralaegon.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/MongeralAegonDigital/front-end-trabalhe-na-mad)
 | :brazil: | [Nexaas](http://www.nexaas.com/) | HTML, CSS & JS | [Code →](https://github.com/myfreecomm/desafio-design-01)
