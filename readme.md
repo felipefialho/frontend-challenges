@@ -67,7 +67,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [TExTecnologia](http://textecnologia.com.br/) | Framework JS, Preprocessor CSS & Node.js | [Code →](https://github.com/TExTecnologia/teste-fullstack)
 | :brazil: | [Umbler](https://www.umbler.com/br) | HTML, JS, Preprocessor CSS & Task Runner | [Code →](https://github.com/umbler-team/front-challenge)
 | :brazil: | [UOL Host](https://uolhost.uol.com.br/) | HTML, Preprocessor CSS & JS | [Code →](https://github.com/uolhost/test-frontEnd)
-| :brazil: | [Vagas.com](https://www.vagas.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://challenges.vagas.com.br/)
+| :brazil: | [Vagas.com](https://www.vagas.com.br/) | HTML, CSS, JS | [Code →](https://github.com/VAGAScom/desafio-front-end)
 | :brazil: | [Viva Decora](https://www.vivadecora.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/vivadecora/projeto-frontend-vivadecora-nao-fazer-fork)
 | :brazil: | [Viva Real](https://www.vivareal.com.br/) | HTML, Preprocessor CSS & JS | [Code →](https://github.com/vivareal/code-challenge/blob/master/frontend.md)
 | :brazil: | [Woop Sicredi](https://www.woopsicredi.com/) | Angular | [Code →](https://github.com/WoopSicredi/jobs/issues/6)
