@@ -4,8 +4,8 @@
 
 > Listing some playful open-source's challenges of jobs to test your knowledge
 
-[![license](https://img.shields.io/github/license/LFeh/frontend-challenges.svg)](/license)
-[![GitHub contributors](https://img.shields.io/github/contributors/LFeh/frontend-challenges.svg)](https://github.com/LFeh/frontend-challenges/graphs/contributors)
+[![license](https://img.shields.io/github/license/felipefialho/frontend-challenges.svg)](/license)
+[![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/frontend-challenges.svg)](https://github.com/felipefialho/frontend-challenges/graphs/contributors)
 
 The main objective of repository is testing your knowledge using real jobs challenge. :smiley_cat:
 
@@ -15,7 +15,6 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 |--|--|--|--
 | :brazil: | [1STi](http://www.1sti.com.br/) | React | [Code →](https://github.com/1STi/desafio-frontend/)
 | :us: | [Ambulnz](http://www.ambulnz.com/) | Git, NPM & Bower | [Code →](https://github.com/AmbulnzLLC/frontend-challenge)
-| :brazil: | [Accenture](https://www.accenture.com/br-pt/) | Git, NodeJS, Bower, MongoDB, Sass & Gulp | [Code →](https://github.com/acnrecife/Front-End-Test-Interview)
 | :brazil: | [Agrotis](https://www.agrotis.com/) | React, Redux | [Code →](https://github.com/agrotis-io/desafio-front)
 | :brazil: | [Amaro](https://amaro.com/) | React, Redux, Sass & Webpack | [Code →](https://github.com/amarofashion/front-end-challenge/)
 | :brazil: | [B2W](https://ri.b2w.digital/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/b2w-marketplace/code-challenge)
@@ -29,8 +28,8 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [Conpass](https://www.conpass.io/) | HTML, CSS & JS, React, Redux | [Code →](https://github.com/Conpass/challenges/blob/master/Frontend-Challenge.md)
 | :brazil: | [Contabilizei](http://www.contabilizei.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/contabilizei/front-end-teste)
 | :brazil: | [Creditas](http://creditas.com.br/) | HTML, CSS & JS | [Code →](https://github.com/Creditas/challenge/tree/master/frontend)
-| :brazil: | [Cubo Network](https://cubo.network/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/cubonetwork/frontend-challenge)
-| 🇺🇸 | [Cubo Network](https://cubo.network/) | Framework JS, Preprocessor CSS & Node.js | [Code →](https://github.com/cubonetwork/fullstack-challenge)
+| 🇧🇷 | [Cubo Network](https://cubo.network/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/cubonetwork/frontend-challenge)
+| 🇧🇷 | [Cubo Network](https://cubo.network/) | Framework JS, Preprocessor CSS & Node.js | [Code →](https://github.com/cubonetwork/fullstack-challenge)
 | :brazil: | [Din Digital](https://dindigital.io/) | HTML, CSS & JS | [Code →](https://github.com/dindigital/test-front-2017)
 | :brazil: | [ENext](http://www.enext.com.br/) | HTML, CSS & JS | [Code →](https://github.com/enextgroup/quero-trabalhar-na-enext)
 | :brazil: | [Entria](https://entria.com.br/) | React, React Native, GraphQL & Relay Modern  | [Code →](https://github.com/entria/jobs/)
@@ -44,6 +43,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [Itelios](http://www.itelios.com.br/) | HTML, CSS & JS | [Code →](https://github.com/iteliosbrasil/itelios-frontend-challenge)
 | :brazil: | [LojasKD](http://lojaskd.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/lojaskd/frontend-challenge)
 | :us: | [LoKtra](http://loktra.com/) | HTML, CSS & JS | [Code →](https://github.com/Loktra/Front-End-Engineer)
+| :brazil: | [Mirae Asset](https://corretora.miraeasset.com.br/) | React | [Code →](https://github.com/marcobfv/desafio-mirae-react)
 | :brazil: | [Mkt Virtual](http://www.mktvirtual.com.br/) | WordPress | [Code →](https://github.com/mktvirtual/front-end-test-wordpress)
 | :brazil: | [Mongeral Aegon](https://www.mongeralaegon.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/MongeralAegonDigital/front-end-trabalhe-na-mad)
 | :brazil: | [Nexaas](http://www.nexaas.com/) | HTML, CSS & JS | [Code →](https://github.com/myfreecomm/desafio-design-01)
