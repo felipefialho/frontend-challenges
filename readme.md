@@ -39,6 +39,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [Hotel Urbano](https://www.hotelurbano.com/) | HTML, Preprocessor CSS, Framework JS & Tests | [Code →](https://github.com/HotelUrbano/challenge-charlie)
 | :brazil: | [iCasei](http://icasei.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/icasei/teste-front-end)
 | :brazil: | [iColabora](http://www.icolabora.com.br/) | HTML, CSS & jQuery | [Code →](https://github.com/iColabora/teste-front-end-developer)
+| :uruguay: | [Ingenious](http://ingenious.agency/) | Framework JS, Node.js | [Code →](https://github.com/ingsw-dev/frontend-test)
 | :brazil: | [Intelipost](http://www.intelipost.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/intelipost/job-frontend-developer)
 | :brazil: | [Itelios](http://www.itelios.com.br/) | HTML, CSS & JS | [Code →](https://github.com/iteliosbrasil/itelios-frontend-challenge)
 | :brazil: | [LojasKD](http://lojaskd.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/lojaskd/frontend-challenge)
