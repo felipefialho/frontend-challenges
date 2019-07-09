@@ -71,6 +71,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [UOL Host](https://uolhost.uol.com.br/) | HTML, Preprocessor CSS & JS | [Code →](https://github.com/uolhost/test-frontEnd)
 | :brazil: | [Vagas.com](https://www.vagas.com.br/) | HTML, CSS, JS | [Code →](https://github.com/VAGAScom/desafio-front-end)
 | :brazil: | [Viva Real](https://www.vivareal.com.br/) | HTML, Preprocessor CSS & JS | [Code →](https://github.com/vivareal/code-challenge/blob/master/frontend.md)
+| :cn: | [Wiredcraft](https://wiredcraft.com) | HTML, Preprocessor CSS & Framework JS | [Code →](https://github.com/Wiredcraft/test-frontend)
 | :brazil: | [Woop Sicredi](https://www.woopsicredi.com/) | Angular | [Code →](https://github.com/WoopSicredi/jobs/issues/6)
 | :brazil: | [Wooza](http://wooza.com.br/) | HTML, Preprocessor CSS & Framework JS | [Code →](http://teste-js.celulardireto.com.br/)
 | :us: | [Yodlr](http://getyodlr.com/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/yodlr/frontend-code-challenge)
