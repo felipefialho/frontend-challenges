@@ -65,6 +65,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [Trackmob](http://www.trackmob.com.br/) | React Native | [Code →](https://github.com/Trackmob/trackmob-frontend-test)
 | :brazil: | [Trampos](http://trampos.co/) | HTML, CSS & JS | [Code →](https://github.com/trampos/glowing-octo-batman)
 | :brazil: | [TExTecnologia](http://textecnologia.com.br/) | Framework JS, Preprocessor CSS & Node.js | [Code →](https://github.com/TExTecnologia/teste-fullstack)
+| :netherlands: | [Travix](https://www.travix.com/) | React, Redux, Preprocessor CSS & Tests | [Code →](https://github.com/Travix-International/frontend-tech-test)
 | :brazil: | [Umbler](https://www.umbler.com/br) | HTML, JS, Preprocessor CSS & Task Runner | [Code →](https://github.com/umbler-team/front-challenge)
 | :brazil: | [UOL Host](https://uolhost.uol.com.br/) | HTML, Preprocessor CSS & JS | [Code →](https://github.com/uolhost/test-frontEnd)
 | :brazil: | [Vagas.com](https://www.vagas.com.br/) | HTML, CSS, JS | [Code →](https://github.com/VAGAScom/desafio-front-end)
