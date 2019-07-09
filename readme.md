@@ -34,6 +34,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [ENext](http://www.enext.com.br/) | HTML, CSS & JS | [Code →](https://github.com/enextgroup/quero-trabalhar-na-enext)
 | :brazil: | [Entria](https://entria.com.br/) | React, React Native, GraphQL & Relay Modern  | [Code →](https://github.com/entria/jobs/)
 | :us: | [Esper](https://esper.com/) | Typescript, React & LESS | [Code →](https://github.com/esperco/front-end-challenge)
+| :brazil: | .[Estante Virtual](https://www.estantevirtual.com.br/) | Vue, Sass, Firebase | .[Code →](https://github.com/estantevirtual/vagas/blob/master/desafios/frontend.md)
 | :us: | [Exzeo](http://exzeo.com/) | HTML, CSS & JS | [Code →](https://github.com/exzeo/FrontEndChallenge)
 | :brazil: | [Folha de SP](https://www.folha.uol.com.br/) | HTML, CSS & JS | [Code →](https://github.com/FolhaSP/front-end-test)
 | :brazil: | [Hotel Urbano](https://www.hotelurbano.com/) | HTML, Preprocessor CSS, Framework JS & Tests | [Code →](https://github.com/HotelUrbano/challenge-charlie)
