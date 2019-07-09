@@ -14,6 +14,8 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | | Company | Stack | Test
 |--|--|--|--
 | :brazil: | [1STi](http://www.1sti.com.br/) | React | [Code →](https://github.com/1STi/desafio-frontend/)
+| :gibraltar: | [Addison Global - 1](http://www.addisongloballtd.com/) | React, Redux | [Code →](https://github.com/addisonglobal/frontend-technical-test)
+| :gibraltar: | [Addison Global - 2](http://www.addisongloballtd.com/) | HTML, CSS & JS | [Code →](https://github.com/addisonglobal/web-technical-test)
 | :us: | [Ambulnz](http://www.ambulnz.com/) | Git, NPM & Bower | [Code →](https://github.com/AmbulnzLLC/frontend-challenge)
 | :brazil: | [Agrotis](https://www.agrotis.com/) | React, Redux | [Code →](https://github.com/agrotis-io/desafio-front)
 | :brazil: | [Amaro](https://amaro.com/) | React, Redux, Sass & Webpack | [Code →](https://github.com/amarofashion/front-end-challenge/)
