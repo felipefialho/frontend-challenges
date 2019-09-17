@@ -65,6 +65,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :portugal: | [Significa](https://significa.pt) | React, CSS, JS & Design | [Code →](https://github.com/Significa/frontend-challenge)
 | :us: | [Sitepoint](http://www.sitepoint.com/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/sitepoint/frontend-test)
 | :us: | [Snowdog](http://snow.dog/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/SnowdogApps/front-end-recruitment-test)
+| :brazil: | [Somar Meteorologia](http://www.somarmeteorologia.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/somarmeteorologia/challenge/tree/master/frontend)
 | :us: | [Storecast](http://storecast.de/) | React | [Code →](https://github.com/storecast/frontend-challenge)
 | :us: | [StreamCo](https://github.com/StreamCo) | React | [Code →](https://github.com/StreamCo/react-coding-challenge)
 | :brazil: | [Tagview](https://www.tagview.com.br/) | HTML, CSS & JS | [Code →](https://github.com/tagview/tagchatter)
