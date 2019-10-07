@@ -48,7 +48,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :uruguay: | [Ingenious](http://ingenious.agency/) | Framework JS, Node.js | [Code →](https://github.com/ingsw-dev/frontend-test)
 | :brazil: | [Intelipost](http://www.intelipost.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/intelipost/job-frontend-developer)
 | :brazil: | [Itelios](http://www.itelios.com.br/) | HTML, CSS & JS | [Code →](https://github.com/iteliosbrasil/itelios-frontend-challenge)
-| :germany: | [Join](https://join.com/) | React & Test | [Code →](https://github.com/join-com/coding-challenge-frontend-react)
+| :de: | [Join](https://join.com/) | React & Test | [Code →](https://github.com/join-com/coding-challenge-frontend-react)
 | :brazil: | [Joyjet](https://joyjet.com/) | HTML, CSS & JS | [Code →](https://bitbucket.org/lixao/tech-interview/src/master/webdesign/)
 | :brazil: | [LojasKD](http://lojaskd.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/lojaskd/frontend-challenge)
 | :us: | [LoKtra](http://loktra.com/) | HTML, CSS & JS | [Code →](https://github.com/Loktra/Front-End-Engineer)
