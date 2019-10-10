@@ -50,7 +50,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [Itelios](http://www.itelios.com.br/) | HTML, CSS & JS | [Code →](https://github.com/iteliosbrasil/itelios-frontend-challenge)
 | :de: | [Join](https://join.com/) | React & Test | [Code →](https://github.com/join-com/coding-challenge-frontend-react)
 | :brazil: | [Joyjet](https://joyjet.com/) | HTML, CSS & JS | [Code →](https://bitbucket.org/lixao/tech-interview/src/master/webdesign/)
-| :hk: | [Lalamove](https://www.lalamove.com/careers) | Framework JS | [Code →](https://github.com/lalamove/challenge/blob/master/frontend.md)
+| 🇭🇰 | [Lalamove](https://www.lalamove.com/careers) | Framework JS | [Code →](https://github.com/lalamove/challenge/blob/master/frontend.md)
 | :brazil: | [LojasKD](http://lojaskd.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/lojaskd/frontend-challenge)
 | :us: | [LoKtra](http://loktra.com/) | HTML, CSS & JS | [Code →](https://github.com/Loktra/Front-End-Engineer)
 | :brazil: | [Mirae Asset](https://corretora.miraeasset.com.br/) | React | [Code →](https://github.com/marcobfv/desafio-mirae-react)
