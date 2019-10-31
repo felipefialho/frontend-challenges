@@ -43,6 +43,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [Estante Virtual](https://www.estantevirtual.com.br/) | Vue, Sass, Firebase | .[Code →](https://github.com/estantevirtual/vagas/blob/master/desafios/frontend.md)
 | :us: | [Exzeo](http://exzeo.com/) | HTML, CSS & JS | [Code →](https://github.com/exzeo/FrontEndChallenge)
 | :brazil: | [Folha de SP](https://www.folha.uol.com.br/) | HTML, CSS & JS | [Code →](https://github.com/FolhaSP/front-end-test)
+| :brazil: | [Goomer](https://goomer.com.br/) | HTML, CSS & JS, React  | [Code →](https://github.com/goomerdev/job-dev-frontend-interview)
 | :brazil: | [Hotel Urbano](https://www.hotelurbano.com/) | HTML, Preprocessor CSS, Framework JS & Tests | [Code →](https://github.com/HotelUrbano/challenge-charlie)
 | :brazil: | [iCasei](http://icasei.com.br/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/icasei/teste-front-end)
 | :brazil: | [iColabora](http://www.icolabora.com.br/) | HTML, CSS & jQuery | [Code →](https://github.com/iColabora/teste-front-end-developer)
