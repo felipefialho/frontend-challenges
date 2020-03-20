@@ -17,7 +17,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | en   | :gibraltar: [Addison Global - 1](http://www.addisongloballtd.com/)  | React, Redux                                    | [Code →](https://github.com/addisonglobal/frontend-technical-test)                      |
 | en   | :gibraltar: [Addison Global - 2](http://www.addisongloballtd.com/)  | HTML, CSS & JS                                  | [Code →](https://github.com/addisonglobal/web-technical-test)                           |
 | en   | :fr: [AirCall - 1](https://aircall.io/)                             | HTML, CSS & JS, React                           | [Code →](https://github.com/aircall/integration-test)                                   |
-| n/a  | :fr: [AirCall - 2](https://aircall.io/)                             | HTML, CSS & JS                                  | [Code →](https://github.com/aircall/webdev-test)                                        |
+| en   | :fr:  [AirCall - 2](https://aircall.io/)                             | HTML, CSS & JS, React |                         [Code →](https://github.com/aircall/frontend-test) |
 | en   | :us: [Ambulnz](http://www.ambulnz.com/)                             | Git, NPM & Bower                                | [Code →](https://github.com/AmbulnzLLC/frontend-challenge)                              |
 | pt   | :brazil: [Agrotis](https://www.agrotis.com/)                        | React, Redux                                    | [Code →](https://github.com/agrotis-io/desafio-front)                                   |
 | en   | :brazil: [Amaro](https://amaro.com/)                                | React, Redux, Sass & Webpack                    | [Code →](https://github.com/amarofashion/front-end-challenge/)                          |
@@ -29,7 +29,8 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | pt   | :brazil: [Buscapé](https://www.buscape.com.br/)                     | HTML, CSS & JS                                  | [Code →](https://github.com/buscape-company/exercicios/tree/master/frontend)            |
 | pt   | :brazil: [Boticário](http://www.grupoboticario.com.br)              | HTML, CSS & JS, Framework JS                    | [Code →](https://github.com/felipe-ssilva/challenge)                                    |
 | en   | :netherlands: [Chama](https://www.chama-app.com.br/)                | React, Redux                                    | [Code →](https://github.com/chamatheapp/chama-frontend-assignment/)                     |
-| pt   | :brazil: [Chaordic](https://www.chaordic.com.br/)                   | HTML, CSS & JS                                  | [Code →](https://github.com/chaordic/frontend-intern-challenge)                         |
+| pt   | :brazil: [Chaordic - 1](https://www.chaordic.com.br/)                   | HTML, CSS & JS                                  | [Code →](https://github.com/chaordic/frontend-developer-challenge)                         |
+|pt    | :brazil: [Chaordic - 2](https://www.chaordic.com.br/)      |  HTML, SASS, React, Redux | [Code →](https://github.com/chaordic/frontend-challenger)  |
 | en   | :uk: [ChurchDesk](http://churchdesk.com)                            | Framework JS, Preprocessor CSS & Task Runners   | [Code →](https://github.com/ChurchDesk/cd-challenge)                                    |
 | pt   | :brazil: [Ciclic](https://www.ciclic.com.br/)                       | HTML, CSS & JS                                  | [Code →](https://github.com/ciclic/test-frontend)                                       |
 | pt   | :brazil: [Clima Tempo](http://www.climatempo.com.br/)               | NodeJS & PHP                                    | [Code →](https://github.com/climatempo/challenge-accepted)                              |
@@ -62,8 +63,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | pt   | :brazil: [Mirae Asset](https://corretora.miraeasset.com.br/)        | React                                           | [Code →](https://github.com/marcobfv/desafio-mirae-react)                               |
 | pt   | :brazil: [Mkt Virtual](http://www.mktvirtual.com.br/)               | WordPress                                       | [Code →](https://github.com/mktvirtual/front-end-test-wordpress)                        |
 | pt   | :brazil: [Mongeral Aegon](https://www.mongeralaegon.com.br/)        | Framework JS, Preprocessor CSS & Task Runners   | [Code →](https://github.com/MongeralAegonDigital/front-end-trabalhe-na-mad)             |
-| pt   | :brazil: [Nexaas](http://www.nexaas.com/)                           | HTML, CSS & JS                                  | [Code →](https://github.com/myfreecomm/desafio-design-01)                               |
-| en   | :brazil: [Olist](https://olist.com/)                                | HTML, Preprocessor CSS & JS                     | [Code →](https://github.com/olist/work-at-olist-front)                                  |
+| pt   | :brazil: [Nexaas](http://www.nexaas.com/)                           | HTML, CSS & JS                                  | [Code →](https://github.com/myfreecomm/desafio-design-01)                               | 
 | pt   | :brazil: [Original.io](https://www.original.io/)                    | HTML, CSS & JS                                  | [Code →](https://github.com/original-io/join-us)                                        |
 | pt   | :brazil: [Personare](https://www.personare.com.br/)                 | React                                           | [Code →](https://github.com/Personare/front-end-challenge)                              |
 | en   | :brazil: [Pipefy](https://www.pipefy.com/)                          | React, Redux, GraphQl, Apollo                   | [Code →](https://github.com/pipefy/RecruitmentExercise/blob/master/FRONTENDEXERCISE.md) |
@@ -86,16 +86,14 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | pt   | :brazil: [Umbler](https://www.umbler.com/br)                        | HTML, JS, Preprocessor CSS & Task Runner        | [Code →](https://github.com/umbler-team/front-challenge)                                |
 | pt   | :brazil: [UOL Host](https://uolhost.uol.com.br/)                    | HTML, Preprocessor CSS & JS                     | [Code →](https://github.com/uolhost/test-frontEnd)                                      |
 | pt   | :brazil: [Vagas.com](https://www.vagas.com.br/)                     | HTML, CSS, JS                                   | [Code →](https://github.com/VAGAScom/desafio-front-end)                                 |
-| pt   | :brazil: [Viva Real](https://www.vivareal.com.br/)                  | HTML, Preprocessor CSS & JS                     | [Code →](https://github.com/vivareal/code-challenge/blob/master/frontend.md)            |
 | en   | :cn: [Wiredcraft](https://wiredcraft.com)                           | HTML, Preprocessor CSS & Framework JS           | [Code →](https://github.com/Wiredcraft/test-frontend)                                   |
 | pt   | :brazil: [Woop Sicredi](https://www.woopsicredi.com/)               | Angular                                         | [Code →](https://github.com/WoopSicredi/jobs/issues/6)                                  |
 | n/a  | :brazil: [Wooza](http://wooza.com.br/)                              | HTML, Preprocessor CSS & Framework JS           | [Code →](http://teste-js.celulardireto.com.br/)                                         |
 | en   | :us: [Yodlr](http://getyodlr.com/)                                  | Framework JS, Preprocessor CSS & Task Runners   | [Code →](https://github.com/yodlr/frontend-code-challenge)                              |
 | en   | :us: [ZEPL](http://www.zepl.com/)                                   | Framework JS, Preprocessor CSS & Task Runners   | [Code →](https://github.com/ZEPL/front-end-challenge)                                   |
 | pt   | :brazil: [Zup](https://www.zup.com.br/)                             | Framework JS, Preprocessor CSS & Module Bundler | [Code →](https://github.com/ZupIT/rd-frontend-test)                                     |
-| en   | :brazil: [VAI.car](https://vai.car)                                 | Generalist Web Platform
-| pt   | :brazil: [Gen](https://gen.shop)                                    | React
-| [Code →](https://github.com/genshopp/careers/blob/master/challenges/frontend.md)        |
+| en   | :brazil: [VAI.car](https://vai.car)                                 | Generalist Web Platform | [Code →](https://github.com/blongg/vai-code-challenges)|
+| pt   | :brazil: [Gen](https://gen.shop)                                    | React | [Code →](https://github.com/genshopp/careers/blob/master/challenges/frontend.md)        |
 
 ## License
 
