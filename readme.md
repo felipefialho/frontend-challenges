@@ -94,9 +94,8 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | en   | :us: [ZEPL](http://www.zepl.com/)                                   | Framework JS, Preprocessor CSS & Task Runners   | [Code →](https://github.com/ZEPL/front-end-challenge)                                   |
 | pt   | :brazil: [Zup](https://www.zup.com.br/)                             | Framework JS, Preprocessor CSS & Module Bundler | [Code →](https://github.com/ZupIT/rd-frontend-test)                                     |
 | en   | :brazil: [VAI.car](https://vai.car)                                 | Generalist Web Platform
-| pt   | :brazil: [Gen](https://gen.shop)                                    | React
-| [Code →](https://github.com/genshopp/careers/blob/master/challenges/frontend.md)        |
-
+| pt   | :brazil: [Gen](https://gen.shop)                                    | React| [Code →](https://github.com/genshopp/careers/blob/master/challenges/frontend.md)        |
+| pt   | :brazil: [Petlove](https://www.petlove.com.br)                      | VueJS, React, Vannila                                                     | [Code →](https://github.com/petlove/vagas/tree/master/frontend)
 ## License
 
 [MIT](/license) &copy; Felipe Fialho
