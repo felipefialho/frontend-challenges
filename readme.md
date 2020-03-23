@@ -46,6 +46,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | pt   | :brazil: [Estante Virtual](https://www.estantevirtual.com.br/)      | Vue, Sass, Firebase                             | [Code →](https://github.com/estantevirtual/vagas/blob/master/desafios/frontend.md)      |
 | en   | :us: [Exzeo](http://exzeo.com/)                                     | HTML, CSS & JS                                  | [Code →](https://github.com/exzeo/FrontEndChallenge)                                    |
 | pt   | :brazil: [Folha de SP](https://www.folha.uol.com.br/)               | HTML, CSS & JS                                  | [Code →](https://github.com/FolhaSP/front-end-test)                                     |
+| pt   | :brazil: [Gen](https://gen.shop)                                    | React                                           | [Code →](https://github.com/genshopp/careers/blob/master/challenges/frontend.md)        |
 | pt   | :brazil: [Goomer](https://goomer.com.br/)                           | HTML, CSS & JS, React                           | [Code →](https://github.com/goomerdev/job-dev-frontend-interview)                       |
 | pt   | :brazil: [Hotel Urbano](https://www.hotelurbano.com/)               | HTML, Preprocessor CSS, Framework JS & Tests    | [Code →](https://github.com/HotelUrbano/challenge-charlie)                              |
 | pt   | :brazil: [iCasei](http://icasei.com.br/)                            | Framework JS, Preprocessor CSS & Task Runners   | [Code →](https://github.com/icasei/teste-front-end)                                     |
@@ -93,9 +94,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | en   | :us: [Yodlr](http://getyodlr.com/)                                  | Framework JS, Preprocessor CSS & Task Runners   | [Code →](https://github.com/yodlr/frontend-code-challenge)                              |
 | en   | :us: [ZEPL](http://www.zepl.com/)                                   | Framework JS, Preprocessor CSS & Task Runners   | [Code →](https://github.com/ZEPL/front-end-challenge)                                   |
 | pt   | :brazil: [Zup](https://www.zup.com.br/)                             | Framework JS, Preprocessor CSS & Module Bundler | [Code →](https://github.com/ZupIT/rd-frontend-test)                                     |
-| en   | :brazil: [VAI.car](https://vai.car)                                 | Generalist Web Platform
-| pt   | :brazil: [Gen](https://gen.shop)                                    | React
-| [Code →](https://github.com/genshopp/careers/blob/master/challenges/frontend.md)        |
+| en   | :brazil: [VAI.car](https://vai.car)                                 | Generalist Web Platform                         | [Code →](https://github.com/blongg/vai-code-challenges)                                 |
 
 ## License
 
