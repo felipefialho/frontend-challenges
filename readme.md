@@ -94,7 +94,6 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | n/a  | :brazil: [Wooza](http://wooza.com.br/)                              | HTML, Preprocessor CSS & Framework JS           | [Code →](http://teste-js.celulardireto.com.br/)                                         | [Jobs](https://www.linkedin.com/company/wooza/jobs/) |
 | en   | :us: [Yodlr](http://getyodlr.com/)                                  | Framework JS, Preprocessor CSS & Task Runners   | [Code →](https://github.com/yodlr/frontend-code-challenge)                              | - |
 | en   | :us: [ZEPL](http://www.zepl.com/)                                   | Framework JS, Preprocessor CSS & Task Runners   | [Code →](https://github.com/ZEPL/front-end-challenge)                                   | - |
-| pt   | :brazil: [Zup](https://www.zup.com.br/)                             | Framework JS, Preprocessor CSS & Module Bundler | [Code →](https://github.com/ZupIT/rd-frontend-test)                                     | [Jobs](https://www.linkedin.com/company/zup-it-solutions/jobs/) |
 | en   | :brazil: [VAI.car](https://vai.car)                                 | Generalist Web Platform                         | [Code →](https://github.com/blongg/vai-code-challenges)                                 | - |
 
 ## License
