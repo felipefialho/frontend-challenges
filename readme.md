@@ -98,6 +98,8 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | en   | :us: [Yodlr](http://getyodlr.com/)                                  | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/yodlr/frontend-code-challenge)                              | -                                                                               |
 | en   | :us: [ZEPL](http://www.zepl.com/)                                   | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/ZEPL/front-end-challenge)                                   | -                                                                               |
 | en   | :brazil: [VAI.car](https://vai.car)                                 | Generalist Web Platform                       | [Code →](https://github.com/blongg/vai-code-challenges)                                 | -                                                                               |
+| pt   | :brazil: [Viva Decora](https://www.vivadecora.com.br/) |  HTML, Preprocessor CSS & Framework JS | [Code →](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork) | -
+
 
 ## License
 
