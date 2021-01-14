@@ -11,7 +11,7 @@ The main objective of repository is testing your knowledge using real jobs chall
 
 Follows some playful (just open-source! :warning:) challenges of jobs.
 
-| Lang | Company                                                             | Stack                                         | Challenge                                                                               | Jobs on LinkedIn                                                                |
+|      | Company                                                             | Stack                                         | Challenge                                                                               | Jobs on LinkedIn                                                                |
 | ---- | ------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | pt   | :brazil: [1STi](http://www.1sti.com.br/)                            | React                                         | [Code →](https://github.com/1STi/desafio-frontend/)                                     | [Jobs](https://www.linkedin.com/company/1sti/jobs/)                             |
 | en   | :gibraltar: [Addison Global - 1](http://www.addisongloballtd.com/)  | React, Redux                                  | [Code →](https://github.com/addisonglobal/frontend-technical-test)                      | -                                                                               |
