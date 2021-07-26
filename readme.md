@@ -105,6 +105,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | en   | :us: [ZEPL](http://www.zepl.com/)                                   | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/ZEPL/front-end-challenge)                                   | -                                                                               |
 | en   | :brazil: [VAI.car](https://vai.car)                                 | Generalist Web Platform                       | [Code →](https://github.com/blongg/vai-code-challenges)                                 | -                                                                               |
 | pt   | :brazil: [Viva Decora](https://www.vivadecora.com.br/) |  HTML, Preprocessor CSS & Framework JS | [Code →](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork) | -
+| pt   | :brazil: [Smart Fit](https://www.smartfit.com.br/)                  | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/bioritmo/front-end-code-challenge-smartsite)                | [Jobs](https://www.linkedin.com/company/smart-fit/)                             |
 | pt   | :brazil: [South System](https://southsystem.com.br/) |  React, Vue, Webpack, Google Books API, HTML, CSS, JS | [Code →](https://github.com/rh-southsystem/desafio-front-books)                                        | [Jobs](https://southsystem.com.br/vagas.php) |
 
 
