@@ -99,7 +99,8 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | en   | :cn: [Wiredcraft](https://wiredcraft.com)                           | HTML, Preprocessor CSS & Framework JS         | [Code →](https://github.com/Wiredcraft/test-frontend)                                   | -                                                                               |
 | pt   | :brazil: [Woop Sicredi](https://www.woopsicredi.com/)               | Angular, React, Stencil                       | [Code →](https://github.com/WoopSicredi/jobs/issues/6)                                  | -                                                                               |
 | en   | :us: [Yodlr](http://getyodlr.com/)                                  | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/yodlr/frontend-code-challenge)                              | -                                                                               |
-| en   | :us: [ZEPL](http://www.zepl.com/)                                   | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/ZEPL/front-end-challenge)                                   | -                                                                               |
+| en   | :us: [ZEPL](http://www.zepl.com/)                                   | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/ZEPL/front-end-challenge)                                   | -   
+| pt   | :brazil: [Stone](https://www.stone.com.br/)                                   | React, Typescript, Styled Components, Testes unitários | [Code →](https://github.com/stone-payments/template-desafio-web)                                   | -                                                                                      |
 
 
 
