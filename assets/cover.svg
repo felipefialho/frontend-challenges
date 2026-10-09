@@ -15,9 +15,8 @@
       <stop offset="1" stop-color="#06b6d4" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#a78bfa"/>
-      <stop offset="0.5" stop-color="#f472b6"/>
-      <stop offset="1" stop-color="#22d3ee"/>
+      <stop offset="0" stop-color="#c4b5fd"/>
+      <stop offset="1" stop-color="#94a3c8"/>
     </linearGradient>
     <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#1a1f3a" stop-opacity="0.95"/>
