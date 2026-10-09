@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/3603793/84830477-d0091980-afff-11ea-87fc-c72b4d7d5e02.png" alt="Challenge Accepted" width="200"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/b7ec0ac1-e603-4162-9408-8736e20e5338"></p>
 
 # Front-end Challenges
 
