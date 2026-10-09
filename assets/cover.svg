@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Front-end Challenges</title>
+  <desc id="desc">Open-source hiring challenges to test your front-end knowledge.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1022"/>
+      <stop offset="1" stop-color="#0f0a24"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.15" cy="0.1" r="0.6">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.9" cy="0.95" r="0.6">
+      <stop offset="0" stop-color="#06b6d4" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c4b5fd"/>
+      <stop offset="1" stop-color="#94a3c8"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a1f3a" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#12162b" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="cardStroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity="0.07"/>
+    </pattern>
+    <filter id="shadow" filterUnits="userSpaceOnUse" x="-200" y="-200" width="1000" height="800">
+      <feDropShadow dx="0" dy="24" stdDeviation="28" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <rect width="1280" height="640" fill="url(#glowA)"/>
+  <rect width="1280" height="640" fill="url(#glowB)"/>
+  <rect width="1280" height="640" fill="url(#dots)"/>
+
+  <g font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <!-- Eyebrow pill -->
+    <g transform="translate(80 150)">
+      <rect width="268" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/>
+      <circle cx="22" cy="19" r="5" fill="#34d399"/>
+      <text x="38" y="25" font-size="16" font-weight="500" fill="#c7cbe0" letter-spacing="0.3">Open-source job challenges</text>
+    </g>
+
+    <!-- Title -->
+    <text x="76" y="290" font-size="88" font-weight="800" fill="#f5f6fb" letter-spacing="-3">Front-end</text>
+    <text x="76" y="384" font-size="88" font-weight="800" fill="url(#accent)" letter-spacing="-3">Challenges</text>
+
+    <!-- Subtitle -->
+    <text x="80" y="436" font-size="22" font-weight="400" fill="#9aa1bf">Real hiring challenges to level up your skills.</text>
+
+    <!-- Tech chips -->
+    <g font-size="15" font-weight="600" fill="#dfe2f2">
+      <g transform="translate(80 478)">
+        <rect width="76" height="34" rx="9" fill="#e34f26" fill-opacity="0.16" stroke="#e34f26" stroke-opacity="0.55"/>
+        <text x="38" y="22" text-anchor="middle">HTML</text>
+      </g>
+      <g transform="translate(166 478)">
+        <rect width="64" height="34" rx="9" fill="#2965f1" fill-opacity="0.18" stroke="#3b82f6" stroke-opacity="0.6"/>
+        <text x="32" y="22" text-anchor="middle">CSS</text>
+      </g>
+      <g transform="translate(240 478)">
+        <rect width="52" height="34" rx="9" fill="#f7df1e" fill-opacity="0.14" stroke="#f7df1e" stroke-opacity="0.55"/>
+        <text x="26" y="22" text-anchor="middle">JS</text>
+      </g>
+      <g transform="translate(302 478)">
+        <rect width="58" height="34" rx="9" fill="#3178c6" fill-opacity="0.18" stroke="#3178c6" stroke-opacity="0.7"/>
+        <text x="29" y="22" text-anchor="middle">TS</text>
+      </g>
+      <g transform="translate(370 478)">
+        <rect width="82" height="34" rx="9" fill="#61dafb" fill-opacity="0.12" stroke="#61dafb" stroke-opacity="0.55"/>
+        <text x="41" y="22" text-anchor="middle">React</text>
+      </g>
+      <g transform="translate(462 478)">
+        <rect width="64" height="34" rx="9" fill="#42b883" fill-opacity="0.14" stroke="#42b883" stroke-opacity="0.6"/>
+        <text x="32" y="22" text-anchor="middle">Vue</text>
+      </g>
+      <g transform="translate(536 478)">
+        <rect width="92" height="34" rx="9" fill="#dd0031" fill-opacity="0.16" stroke="#dd0031" stroke-opacity="0.6"/>
+        <text x="46" y="22" text-anchor="middle">Angular</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Code editor card -->
+  <g transform="translate(728 128)" filter="url(#shadow)">
+    <rect width="476" height="340" rx="18" fill="url(#card)" stroke="url(#cardStroke)" stroke-width="1.5"/>
+    <path d="M18 0h440a18 18 0 0 1 18 18v30H0V18A18 18 0 0 1 18 0z" fill="#ffffff" fill-opacity="0.04"/>
+    <line x1="0" y1="48" x2="476" y2="48" stroke="#ffffff" stroke-opacity="0.08"/>
+    <circle cx="26" cy="24" r="6.5" fill="#ff5f57"/>
+    <circle cx="48" cy="24" r="6.5" fill="#febc2e"/>
+    <circle cx="70" cy="24" r="6.5" fill="#28c840"/>
+    <text x="238" y="29" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#8a90ad">challenge.js</text>
+
+    <g font-family="'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17">
+      <g fill="#4b5275" text-anchor="end">
+        <text x="40" y="92">1</text><text x="40" y="122">2</text><text x="40" y="152">3</text>
+        <text x="40" y="182">4</text><text x="40" y="212">5</text><text x="40" y="242">6</text>
+        <text x="40" y="272">7</text><text x="40" y="302">8</text>
+      </g>
+      <text x="60" y="92" fill="#6b7299">// pick one, ship it, get hired</text>
+      <text x="60" y="122"><tspan fill="#c792ea">const</tspan><tspan fill="#e6e8f3"> job = </tspan><tspan fill="#c792ea">await</tspan><tspan fill="#82aaff"> find</tspan><tspan fill="#e6e8f3">({</tspan></text>
+      <text x="80" y="152"><tspan fill="#e6e8f3">stack: [</tspan><tspan fill="#c3e88d">'React'</tspan><tspan fill="#e6e8f3">, </tspan><tspan fill="#c3e88d">'CSS'</tspan><tspan fill="#e6e8f3">],</tspan></text>
+      <text x="80" y="182"><tspan fill="#e6e8f3">openSource: </tspan><tspan fill="#f78c6c">true</tspan><tspan fill="#e6e8f3">,</tspan></text>
+      <text x="60" y="212" fill="#e6e8f3">});</text>
+      <text x="60" y="272"><tspan fill="#c792ea">await</tspan><tspan fill="#e6e8f3"> job.</tspan><tspan fill="#82aaff">accept</tspan><tspan fill="#e6e8f3">();</tspan></text>
+      <rect x="61" y="287" width="10" height="20" rx="1" fill="#a78bfa"/>
+    </g>
+  </g>
+
+  <!-- Toast -->
+  <g transform="translate(900 440)" filter="url(#shadow)" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <rect width="300" height="64" rx="16" fill="#111827" stroke="#34d399" stroke-opacity="0.45" stroke-width="1.5"/>
+    <circle cx="34" cy="32" r="15" fill="#34d399" fill-opacity="0.18"/>
+    <path d="M27 32.5l5 5 9-10" fill="none" stroke="#34d399" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="62" y="29" font-size="16" font-weight="700" fill="#f5f6fb">Challenge accepted</text>
+    <text x="62" y="48" font-size="13" fill="#8a90ad">Good luck, have fun :)</text>
+  </g>
+</svg>
